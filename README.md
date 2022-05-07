@@ -1,2 +1,2 @@
-# SoftwareEngineerProject
+# SoftwareEngineringProject
 Repo for Project
